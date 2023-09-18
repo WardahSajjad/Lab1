@@ -3,3 +3,5 @@ this is just a test file to do lab tasks of git stage, commit, push etc
 now, i am performing reset commands tasks !
 
 let's see how it goes.
+
+3-way merge
